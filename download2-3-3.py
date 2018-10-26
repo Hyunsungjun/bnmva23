@@ -3,7 +3,7 @@ from urllib.parse import urlencode
 
 API = "http://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp"
 values = {
-    'ctxCd':'1001'
+    'ctxCd':'1001' #숫자를 바꾸면 게시판이 달라진다
 }
 print('before',values)
 params = urlencode(values)#api를 쓸수있게 동적으로 고치기
