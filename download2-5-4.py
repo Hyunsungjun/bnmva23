@@ -23,7 +23,7 @@ soup = BeautifulSoup(html,'html.parser')
 # h1 = soup.select("div#main > h1")
 # #dvi에 아이디가 main인것 하위에 h1
 # print('h1',h1)
-# # print(h1.string) #에러가 납니다 
+# print(h1.string) #에러가 납니다 
 # #이유는 리스트 형태로 가져오기 때문에 문자열로 전환할수가 없는거다 그래서
 # for z in h1:
 #     print(z.string)
