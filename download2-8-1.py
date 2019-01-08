@@ -12,7 +12,7 @@ import os
 # Velocity 데이터의 속도
 
 base = "https://search.naver.com/search.naver?where=image&sm=tab_jum&query="
-quote = rep.quote_plus("가슴")
+quote = rep.quote_plus("아이유")
 url = base+quote
 # print(url) #잘 출력되나 확인
 res = req.urlopen(url)

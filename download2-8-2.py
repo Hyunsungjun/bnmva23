@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import urllib.request as req
 import urllib.parse as rep #분석을 해보면 한글url이 들어가니 이것도 해주세용
 import os
+import errno
 # import io
 # import sys
 

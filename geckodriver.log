@@ -1,0 +1,71 @@
+1546687975343	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jn/3yh49zys6299nhk8q0_xfzl40000gn/T/rust_mozprofile.Pv2SbkRRcRkr"
+*** You are running in headless mode.
+*** You are running in headless mode.
+2019-01-05 20:33:03.800 plugin-container[13081:569156] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:04.012 plugin-container[13081:569156] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1477, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:04.054 plugin-container[13082:569189] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:04.067 plugin-container[13081:569156] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1102e7880 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-01-05 20:33:04.070 plugin-container[13081:569157] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2019-01-05 20:33:04.148 plugin-container[13082:569189] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x147f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:04.159 plugin-container[13082:569189] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x11868e0d0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-01-05 20:33:04.162 plugin-container[13082:569190] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1546687984298	Marionette	INFO	Listening on port 52502
+2019-01-05 20:33:04.720 plugin-container[13099:569381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:04.805 plugin-container[13099:569381] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1477, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:04.813 plugin-container[13099:569381] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1079f09a0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-01-05 20:33:04.815 plugin-container[13099:569382] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1546688018296	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/jn/3yh49zys6299nhk8q0_xfzl40000gn/T/rust_mozprofile.EVerTsXQ8oNU"
+*** You are running in headless mode.
+2019-01-05 20:33:39.481 plugin-container[13137:570425] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:39.571 plugin-container[13137:570425] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa7b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:39.613 plugin-container[13137:570425] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10a84aeb0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-01-05 20:33:39.616 plugin-container[13137:570428] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+2019-01-05 20:33:39.629 plugin-container[13138:570451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:39.716 plugin-container[13138:570451] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb7b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:39.725 plugin-container[13138:570451] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1090ebbe0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-01-05 20:33:39.727 plugin-container[13138:570459] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1546688019786	Marionette	INFO	Listening on port 52545
+1546688019830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1546688019863	Marionette	DEBUG	[4294967297] Frame script loaded
+1546688019867	Marionette	DEBUG	[4294967297] Frame script registered
+1546688019888	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2019-01-05 20:33:40.407 plugin-container[13139:570559] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7343, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:40.490 plugin-container[13139:570559] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x143b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-05 20:33:40.498 plugin-container[13139:570559] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1079ef9a0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-01-05 20:33:40.500 plugin-container[13139:570567] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1546688020853	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1546688021134	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.google.com/
+1546688021311	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.google.com/
+1546688021354	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for https://www.google.com/
+1546688021477	Marionette	DEBUG	[4294967297] Received DOM event pagehide for https://www.google.com/
+1546688021479	Marionette	DEBUG	[4294967297] Received DOM event unload for https://www.google.com/
+1546688022028	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.daum.net/
+1546688022865	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.daum.net/
+1546688023035	Marionette	INFO	Stopped listening on port 52545
+2019-01-06 05:28:08.979 plugin-container[13082:569189] _mthid_copyDeviceInfo(288230376871531234) failed
+2019-01-06 05:28:08.981 plugin-container[13099:569381] _mthid_copyDeviceInfo(288230376871531234) failed
+2019-01-06 05:28:08.981 plugin-container[13081:569156] _mthid_copyDeviceInfo(288230376871531234) failed
+2019-01-06 17:36:44.456 plugin-container[13081:569156] _mthid_copyDeviceInfo(288230376871531234) failed
+2019-01-06 17:36:44.462 plugin-container[13082:569189] _mthid_copyDeviceInfo(288230376871531234) failed
+2019-01-06 17:36:44.462 plugin-container[13099:569381] _mthid_copyDeviceInfo(288230376871531234) failed
+2019-01-07 01:23:00.799 plugin-container[13082:569189] _mthid_copyDeviceInfo(144115188092633088) failed
+2019-01-07 01:23:00.800 plugin-container[13099:569381] _mthid_copyDeviceInfo(144115188092633088) failed
+2019-01-07 01:23:00.800 plugin-container[13081:569156] _mthid_copyDeviceInfo(144115188092633088) failed
+2019-01-07 01:28:09.561 plugin-container[13099:569381] _mthid_copyDeviceInfo(144115188092633088) failed
+2019-01-07 01:28:09.561 plugin-container[13081:569156] _mthid_copyDeviceInfo(144115188092633088) failed
+2019-01-07 01:28:09.562 plugin-container[13082:569189] _mthid_copyDeviceInfo(144115188092633088) failed
+2019-01-07 01:42:11.571 plugin-container[13081:569156] _mthid_copyDeviceInfo(288230376871531234) failed
+2019-01-07 01:42:11.573 plugin-container[13082:569189] _mthid_copyDeviceInfo(288230376871531234) failed
+2019-01-07 01:42:11.574 plugin-container[13099:569381] _mthid_copyDeviceInfo(288230376871531234) failed
